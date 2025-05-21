@@ -101,11 +101,11 @@ enableEmoji = true
     #   icon = "fa-brands fa-github"
 
     # Add additional contacts here!
-    # [[params.contacts]]
-    #     label = ""
-    #     value = ""
-    #     url = ""
-    #     icon = ""
+     [[params.contacts]]
+        label = "Rejoignez-nous sur Signal"
+         value = "Rejoignez-nous sur Signal"
+         url = "https://signal.group/#CjQKIBh2GaTdkMwmXURz57Jyr9VWuUmI8Yq2QajNyYf9LMdzEhBj-ozlAdt8jsshJs4x3gQS"
+         icon = "fa-brands fa-signal-messenger"
 
 # Define additional languages
 [languages]
