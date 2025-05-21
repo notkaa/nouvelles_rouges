@@ -42,8 +42,8 @@ body {
 /* ===== Cover =======*/
 #blog-logo {
   display: block;
-  max-height: 100px;
-  width: auto;
+  max-height: auto;
+  width: 100%;
   margin: 0 auto;
   line-height: 0; }
 
@@ -184,21 +184,21 @@ a.fn-item {
 .post-holder {
   width: 100%;
   height: 100%;
-  background-color: var(--color-background);
-  color: var(--color-text);
+  background-color: #b24e40;
+  color: #f1efe9;
   position: relative;
   /* The triangular parts between posts */ }
   .post-holder.dark {
     --color-text: var(--section-dark-text-color);
     --color-background: var(--section-dark-bg-color);
-    background-color: var(--section-dark-bg-color);
-    color: var(--section-dark-text-color); }
+    background-color: #f1efe9;
+    color: #263439; }
     .post-holder.dark hr {
       border-color: var(--section-dark-text-color); }
     .post-holder.dark .post-after {
       left: unset;
       right: 6%;
-      border-top-color: var(--section-dark-bg-color); }
+      border-top-color: #f1efe9; }
   .post-holder .post-after {
     position: absolute;
     bottom: -40px;
@@ -208,7 +208,7 @@ a.fn-item {
     height: 0;
     border-left: 60px solid transparent;
     border-right: 60px solid transparent;
-    border-top: 50px solid var(--color-background);
+    border-top: 50px solid #b24e40;
     border-radius: 25px; }
 
 /* Every post, on every page, gets this style on its <article> tag
