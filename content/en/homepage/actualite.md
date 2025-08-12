@@ -6,17 +6,17 @@ weight: 2
 header_menu: true
 ---
 
-Le premier titre du futur album, La Logique de Sisyphe, prévu courant 2026 est publié !
+###### . septembre 2025
 
-38°51'43" | 15°57'30" :
-{{< youtube 2-5Y33h0sjM >}}
+38°42'54" | 15°58'29" (Calabria), premier titre de _La Logique de Sisyphe_ est disponible sur notre page Bandcamp et Youtube.
 
-Insert d'un lien bandcamp :
+{{<extlink icon="fa-brands fa-bandcamp" text="Nouvelles Rouges sur Bancamp" href="https://nouvellesrouges.bandcamp.com/track/1222179883">}} 
 {{< bandcamp 4147997990 >}}
 
-Guitarres, claviers : Alban Jamin
-Enregistrement, programation, clip : Hervé Turri
-Mixage et Mastering : Simon Gattegno
-Sample voix : 
+{{<extlink icon="fa-brands fa-youtube" text="Nouvelles Rouges sur Youtube" href="https://www.youtube.com/watch?v=2-5Y33h0sjM">}}
+{{< youtube 2-5Y33h0sjM >}}
+
+
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=4147997990/size=small/bgcol=ffffff/linkcol=0687f5/track=1222179883/transparent=true/" seamless><a href="https://berceaudesvolontessauvages.bandcamp.com/album/fugue-2">Fugue de Berceau des Volontés Sauvages</a></iframe>
 
 
