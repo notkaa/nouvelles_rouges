@@ -6,12 +6,17 @@ weight: 2
 header_menu: true
 ---
 
-In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio est sit amet lorem. Mauris efficitur nunc vel lectus porttitor, sit amet sodales quam eleifend. Duis et felis ut mauris dignissim efficitur. Aliquam non sem eros. Integer elit ante, bibendum id hendrerit vitae, vestibulum eget risus. Nunc efficitur nisl in iaculis vestibulum.
+Le premier titre du futur album, La Logique de Sisyphe, prévu courant 2026 est publié !
 
-Test d'insert de clip vidéo :
-{{< youtube k4bIyuFd6II >}}
+38°51'43" | 15°57'30" :
+{{< youtube 2-5Y33h0sjM >}}
 
 Insert d'un lien bandcamp :
 {{< bandcamp 4147997990 >}}
+
+Guitarres, claviers : Alban Jamin
+Enregistrement, programation, clip : Hervé Turri
+Mixage et Mastering : Simon Gattegno
+Sample voix : 
 
 
